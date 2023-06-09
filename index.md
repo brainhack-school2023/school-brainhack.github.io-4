@@ -33,8 +33,6 @@ image: "![View](https://github.com/brainhack-school2023/Moqadam_project/raw/main
 
 Inspired by the https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/trc2.12371, this project has defined which aims to investigate the functional connectivity patterns in individuals with Parkinson's disease and neuropsychiatric symptoms (PD+NPS) compared to those without the NPS. The study utilizes resting-state fMRI data to analyze the connectivity matrix and identify alterations in functional brain networks associated with PD+NPS. The project also involves familiarizing with data science packages, interpreting neuroimaging data, and advanced visualization techniques. The findings may contribute to understanding the neural mechanisms underlying PD+NPS and inform future research and interventions. The project involves BIDS validation, fMRI preprocessing, functional connectivity analysis, group comparisons, and prediction modeling for mild cognitive impairment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PTYs_JFKsHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Tools
 
 
